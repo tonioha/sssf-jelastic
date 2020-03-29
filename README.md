@@ -1,4 +1,4 @@
-# sssf-jelastic
+# sssf-jelastic-cats
 
 ### Jelastic demo video
 
